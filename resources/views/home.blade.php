@@ -70,14 +70,14 @@
         <a href="/about">Acerca de</a>
     </nav>
 
-    <header>
+    <div>
         <h3>BIENVENIDOS AL SITIO WEB DEL MEJOR ARTISTA DEL MUNDO:</h3>
         <h1>MICHAEL JACKSON</h1>
-    </header>
+    </div>
 
-    <main>
-        <center><img src="../img/1.jpg" alt=""></center>
-    </main>
+    <div>
+        <img src="../img/1.jpg" alt="">
+    </div>
 
     <footer>
         <p>&copy; 2025 Tu Empresa. Todos los derechos reservados.</p>
