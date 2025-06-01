@@ -81,29 +81,7 @@
     </header>
 
     <main class="video">
-        <div>
-            <h2>Michael Jackson - Billie Jean</h2>
-            <video width="960" height="615" controls>
-                <source src="../video/1.mp4" type="video/mp4">
-                Tu navegador no soporta el elemento de video.
-            </video>
-        </div>
-        <br>
-        <div>
-            <h2>Michael Jackson - They Don't Care About Us </h2>
-            <video width="1060" height="615" controls>
-                <source src="../video/2.mp4" type="video/mp4">
-                Tu navegador no soporta el elemento de video.
-            </video>
-        </div>
-        <br>
-        <div>
-            <h2>Michael Jackson - Beat It</h2>
-            <video width="960" height="615" controls>
-                <source src="../video/3.mp4" type="video/mp4">
-                Tu navegador no soporta el elemento de video.
-            </video>
-        </div>
+        
     </main>
 
     <footer>
